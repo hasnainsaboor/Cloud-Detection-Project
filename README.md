@@ -7,8 +7,9 @@ This project is inspired by real-world remote-sensing research needs (SUPARCO RE
 
 **Target Objective:** Achieve a segmentation accuracy of at least 85% (Intersection-over-Union) on a held-out test set.
 
- 📂 Repository Structure
+## 📂 Repository Structure
 
+```text
 ├── data/                   # Dataset folder (ignored in git)
 │   ├── train/              # Training images and masks
 │   └── test/               # Testing images and masks
